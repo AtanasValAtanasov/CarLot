@@ -1,0 +1,7 @@
+C:\Users\Nsk-L\source\repos\CarListApp\CarListApp\bin\Debug\CarListApp.exe.config
+C:\Users\Nsk-L\source\repos\CarListApp\CarListApp\bin\Debug\CarListApp.exe
+C:\Users\Nsk-L\source\repos\CarListApp\CarListApp\bin\Debug\CarListApp.pdb
+C:\Users\Nsk-L\source\repos\CarListApp\CarListApp\obj\Debug\CarListApp.csprojAssemblyReference.cache
+C:\Users\Nsk-L\source\repos\CarListApp\CarListApp\obj\Debug\CarListApp.csproj.CoreCompileInputs.cache
+C:\Users\Nsk-L\source\repos\CarListApp\CarListApp\obj\Debug\CarListApp.exe
+C:\Users\Nsk-L\source\repos\CarListApp\CarListApp\obj\Debug\CarListApp.pdb
